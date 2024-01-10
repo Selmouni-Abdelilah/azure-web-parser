@@ -1,4 +1,3 @@
-.git*
 .vscode
 __azurite_db*__.json
 __blobstorage__
